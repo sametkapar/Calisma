@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\HesapmakinesiFunctions\HesapmakinesiFunctions\bin\Debug\HesapmakinesiFunctions.exe.config
+C:\Users\user\source\repos\HesapmakinesiFunctions\HesapmakinesiFunctions\bin\Debug\HesapmakinesiFunctions.exe
+C:\Users\user\source\repos\HesapmakinesiFunctions\HesapmakinesiFunctions\bin\Debug\HesapmakinesiFunctions.pdb
+C:\Users\user\source\repos\HesapmakinesiFunctions\HesapmakinesiFunctions\obj\Debug\HesapmakinesiFunctions.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\HesapmakinesiFunctions\HesapmakinesiFunctions\obj\Debug\HesapmakinesiFunctions.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\HesapmakinesiFunctions\HesapmakinesiFunctions\obj\Debug\HesapmakinesiFunctions.exe
+C:\Users\user\source\repos\HesapmakinesiFunctions\HesapmakinesiFunctions\obj\Debug\HesapmakinesiFunctions.pdb
